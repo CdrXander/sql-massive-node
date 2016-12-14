@@ -1,0 +1,27 @@
+{
+  "name": "sql-massive-node",
+  "version": "1.0.0",
+  "description": "EDU: Basic CRUD App",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "massive": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CdrXander/sql-massive-node.git"
+  },
+  "author": "Xander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CdrXander/sql-massive-node/issues"
+  },
+  "homepage": "https://github.com/CdrXander/sql-massive-node#readme"
+}
